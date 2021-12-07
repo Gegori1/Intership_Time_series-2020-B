@@ -14,6 +14,6 @@ Met_simple: autumn 2019 proyect. Simpler methodology based on penalized LR and g
 
 Por_tiempo: clasificacion de variables de temperatura con kmean. Se busco predecir temporada
 
-Todo Alan: Trabajo realizado por A. Ajuste basado en R simbolica (Eureka).
+TA: Trabajo realizado por A. Ajuste basado en R simbolica (Eureka).
 
-Todo_Diana: Trabajo realizado por D. Bsado en clima y arima.
+TD: Trabajo realizado por D. Basado en clima y arima.
